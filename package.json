@@ -1,0 +1,15 @@
+{
+  "name": "javascript_exercises",
+  "version": "1.0.0",
+  "description": "This is where i will be storing all of my JavaScript that I am using to learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.34.2"
+  }
+}
